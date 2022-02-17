@@ -8,6 +8,8 @@
 
 ### [GBDT_SPARSE](https://github.com/131AIClub/GBDT_SPARSE)
 
+### [RAkEL](https://github.com/131AIClub/RAkEL)
+
 ### [dev-city-flow](https://github.com/131AIClub/dev-city-flow)
 
 ## 课程资料
